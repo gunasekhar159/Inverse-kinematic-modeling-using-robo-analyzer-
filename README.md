@@ -52,14 +52,21 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
 
 ### SIMULATION 
 ## RPR ROBOT:
-![output](?raw=true)
+![image](https://user-images.githubusercontent.com/95043391/174339513-603e2fe2-d66d-45f6-b7c7-6020d1c08e3f.png)
+![image](https://user-images.githubusercontent.com/95043391/174339562-1d8ca006-41d4-4a19-83ae-780946650caf.png)
+
 
 ![output](?raw=true)
  
  ## 3R ROBOT:
- ![output](?raw=true)
- 
- ![output](?raw=true)
+![image](https://user-images.githubusercontent.com/95043391/174339606-987f1708-f251-4eed-a6ed-6ea19efc35b0.png)
+ ![image](https://user-images.githubusercontent.com/95043391/174339639-1d0de693-926e-46eb-933d-a2f9ffe13a94.png)
+ ### PLOT :
+ ![image](https://user-images.githubusercontent.com/95043391/174339725-e170874b-64a7-4fc2-8aab-cd74a49baa42.png)
+![image](https://user-images.githubusercontent.com/95043391/174339744-16be79d7-c221-400e-90ba-d8ef3a2d93e5.png)
+![image](https://user-images.githubusercontent.com/95043391/174339788-577158e8-58ac-46c8-83c1-a93d82f44646.png)
+![image](https://user-images.githubusercontent.com/95043391/174339804-6661023a-9989-4146-b491-2aa4d5cfb8b6.png)
+
  
  
  
