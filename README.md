@@ -76,17 +76,7 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
  
  
  
- ### PLOT 
  
- ## RPR ROBOT:
-![output](?raw=true)
-
-![output](?raw=true)
- 
- ## 3R ROBOT:
- ![output](?raw=true)
- 
- ![output](?raw=true)
  
 
  
